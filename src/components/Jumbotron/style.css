@@ -1,4 +1,12 @@
 .jumbotron {
-  height: 130px;
-  padding-top: 20px;
+  height: 160px;
+  padding-top: 30px;
+  border-bottom: 3px rgb(168, 32, 32) solid;
+  background-color: #34568B;
+  color: white;
+}
+
+.p-header {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
 }

@@ -3,12 +3,13 @@ import './style.css';
 
 export default function Jumbotron () {
   return (
-    <div>
-      <div className="jumbotron jumbotron-fluid bg-info">
-        <div className="container">
-          <h1 className="display-4 text-center">Employee Directory</h1>
+    <>
+      <div className="jumbotron jumbotron-fluid">
+        <div className="container text-center">
+          <h1 className="display-4 ">Employee Directory</h1>
+          <p className="p-header">Click headings to filter or use search box to narrow results</p>
         </div>
       </div>
-    </div>
+    </>
   )
 };
