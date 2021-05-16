@@ -1,4 +1,4 @@
-# Employee Directory
+# Employee/Staff Directory
 
 # Table of Contents
 - [Description](#description)
