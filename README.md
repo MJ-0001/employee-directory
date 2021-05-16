@@ -77,7 +77,7 @@ Please make a pull request for bugs or enhancements.
 ---
 ## Tests:
 
-ReactJS package tests for pre-deployment testing on a web browser.
+ReactJS package tests.
 
 ---
 ## Questions:  
